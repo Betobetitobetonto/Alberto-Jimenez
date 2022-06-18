@@ -1,25 +1,19 @@
 # Alberto-Jimenez
-My personal space.
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm YouDevs</h1>
-    <h3 align="center">A passionate web fullstack developer from México. I like teaching what I learn in my Social
-        Media: YouTube, Twitch and TikTok where you can find me like a YouDevs, and my secundary youtube channel: NKL
-        YouDevs.</h3>
+    <h1 align="center">Hi, welcome to my personal space on GitHub! 👋 I'm Alberto Jimenez</h1>
+    <h3 align="center">I am a student of the computer systems engineering career, I like to program and continue learning various topics related to this environment.
+I hope you like my work, greetings.</h3>
 </div>
 
 
 <div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
+    <a href="https://www.instagram.com/betojmz.r/" target="_blank">
+        <img src="https://img.shields.io/endpoint?color=blue&label=FOLLOW%20%40BETOJMZ.R&logo=instagram&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fbetojmz.r%2F"
             alt="Youtube Badge" />
     </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
+    <a href="https://twitter.com/betojimenez_r" target="_blank">
+        <img src="https://img.shields.io/twitter/follow/betojimenez_r?color=blue&logo=twitter&style=for-the-badge"
             alt="Twitter Badge" />
     </a>
 </div>
@@ -28,15 +22,15 @@ My personal space.
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 I am most active in: [https://www.instagram.com/betojmz.r/](https://www.instagram.com/betojmz.r/)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **PHP, Java, Python, MYSQL**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **jimenezrosalesjorgealberto@gmail.com**
 
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
+- 🌱 I’m currently learning **Computer networks, mobile applications, artificial intelligence, and electronics.**
 
-- 🌐 Website [youdevs.com](youdevs.com)
+
 
 
 <div align="left">
@@ -44,16 +38,15 @@ My personal space.
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+              <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+     
+     
       </div>
 </div>
 
@@ -61,8 +54,9 @@ My personal space.
 
 ### 📊 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ajotajmz11&theme=onedark)](https://git.io/streak-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajotajmz11&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajotajmz11&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
